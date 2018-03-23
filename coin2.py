@@ -2,12 +2,9 @@
 import random
 
 #inizializzo variabili
-j = 0
-i = 0
-x = 0
 count = 0
 # faccio 100000 volte 10 lanci: un milione di lanci
-while x < 100000:
+for x in range(100000):
     i = 0
     j = 0
     val = []
