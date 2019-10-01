@@ -1,3 +1,4 @@
+#inizio programma
 # 10 teste consecutive
 import random
 
